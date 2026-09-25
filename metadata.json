@@ -1,0 +1,6 @@
+{
+  "name": "WinGo Pro Trader & Algorithm Analyzer",
+  "description": "Advanced WinGo 30S live prediction node, statistical analysis terminal, 8-factor algorithmic breakdown, and educational lottery simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
